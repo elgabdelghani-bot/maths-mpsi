@@ -265,7 +265,7 @@ aside ul li {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(100px); /* distance du mouvement */
+    transform: translateX(94px); /* distance du mouvement */
   }
 }
 
